@@ -8,19 +8,32 @@ The purpose of this repository is to showcase the work completed in the Emerging
 
 ## Contents
 
-'Images/' - Folder for images contained in notebooks.
-'Jupyter Notebooks/' - Folder containing notebooks.
-'Jupyter Notebooks/project.ipynb' - Project Deutsch's Algorithm notebook.
-'Jupyter Notebooks/tasks.ipynb' - Tasks notebook.
-'.gitignore' - Ignoring temporary files or folders.
+- 'Images/' - Folder for images contained in notebooks.
+- 'Jupyter Notebooks/' - Folder containing notebooks.
+- 'Jupyter Notebooks/project.ipynb' - Project Deutsch's Algorithm notebook.
+- 'Jupyter Notebooks/tasks.ipynb' - Tasks notebook.
+- '.gitignore' - Ignoring temporary files or folders.
 
 ## Instructions
 
-1. Clone the reposoitory:  
+1. Install Software:
+   - Anaconda
+   - Python
+   - VSC
+    
+2. Clone the reposoitory:  
 ```bash
 git clone https://github.com/WaldronSoftware/emergingtechnologies.git
-2. Open repository in an editor such as Visual Studio Code.
-3. Install Dependecies:
+```
+3. Open repository in an editor such as Visual Studio Code.
+  3.5 OR open Anaconda CMD, Run Jupyter Notebook:
+    ```bash
+    jupyter notebook
+    ```
+4. Navigate to desired notebook folder and open the .ipynb file.
+5. Install Dependecies: 
+```bash
   # pip install qiskit
   # pip install qiskit-aer
+```
 
