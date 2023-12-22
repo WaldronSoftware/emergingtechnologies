@@ -31,7 +31,9 @@ git clone https://github.com/WaldronSoftware/emergingtechnologies.git
     ```bash
     jupyter notebook
     ```
+    
 5. Navigate to desired notebook folder and open the .ipynb file.
+   
 6. Install Dependecies: 
 ```bash
   # pip install qiskit
