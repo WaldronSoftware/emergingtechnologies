@@ -26,12 +26,13 @@ The purpose of this repository is to showcase the work completed in the Emerging
 git clone https://github.com/WaldronSoftware/emergingtechnologies.git
 ```
 3. Open repository in an editor such as Visual Studio Code.
-  3.5 OR open Anaconda CMD, Run Jupyter Notebook:
+   
+3.5 OR open Anaconda CMD, Run Jupyter Notebook:
     ```bash
     jupyter notebook
     ```
-4. Navigate to desired notebook folder and open the .ipynb file.
-5. Install Dependecies: 
+5. Navigate to desired notebook folder and open the .ipynb file.
+6. Install Dependecies: 
 ```bash
   # pip install qiskit
   # pip install qiskit-aer
