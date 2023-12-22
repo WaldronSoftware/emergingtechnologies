@@ -8,7 +8,7 @@ The purpose of this repository is to showcase the work completed in the Emerging
 
 ## Contents
 
-- Images/ - Folder for images contained in notebooks.
+- 'Images/' - Folder for images contained in notebooks.
 - 'Jupyter Notebooks/' - Folder containing notebooks.
 - 'Jupyter Notebooks/project.ipynb' - Project Deutsch's Algorithm notebook.
 - 'Jupyter Notebooks/tasks.ipynb' - Tasks notebook.
