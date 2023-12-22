@@ -27,7 +27,7 @@ git clone https://github.com/WaldronSoftware/emergingtechnologies.git
 ```
 3. Open repository in an editor such as Visual Studio Code.
    
-3.5 OR open Anaconda CMD, Run Jupyter Notebook:
+4. OR open Anaconda CMD, Run Jupyter Notebook:
     ```bash
     jupyter notebook
     ```
